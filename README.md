@@ -28,6 +28,6 @@
 ## 🛠️ Tech Stack
 
 ```python
-Languages: Python | C | JavaScript
-Tools:     Arduino | SolidWorks | Raspberry Pi
-Skills:    Web Scraping | Embedded Systems | Machine Learning | Curriculum Design
+Languages: Python | C | JavaScript | SQL
+Tools:     Arduino IDE | Cisco Packet Tracer | Git & GitHub
+Skills:    Programming | Web Scraping | Machine Learning
